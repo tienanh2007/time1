@@ -1,0 +1,21 @@
+{
+  "name": "timeserver",
+  "version": "1.0.0",
+  "description": "a time server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "Tien Anh Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
